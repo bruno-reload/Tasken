@@ -1,0 +1,7 @@
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\obj\Debug\TaskenAtividade.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\obj\Debug\TaskenAtividade.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\bin\Debug\TaskenAtividade.exe.config
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\bin\Debug\TaskenAtividade.exe
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\bin\Debug\TaskenAtividade.pdb
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\obj\Debug\TaskenAtividade.exe
+C:\Users\Usuário\Documents\git\avaliacao\Tasken\TaskenAtividade\obj\Debug\TaskenAtividade.pdb
